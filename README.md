@@ -1,2 +1,2 @@
-# powder-chem
-A Powder Simulation Game inspired heavily by The Powder Toy
+# Powder Chem
+A Powder Simulation Game inspired heavily by [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
