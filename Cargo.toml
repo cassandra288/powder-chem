@@ -1,5 +1,6 @@
 [workspace]
 members = [
-	"bin/powder-chem"
+	"bin/powder-chem",
+	"lib/powder-chem-rendering"
 ]
 resolver = "3"
